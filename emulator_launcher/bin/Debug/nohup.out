@@ -1,0 +1,207 @@
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0x7fac041ae410 (terminatorlib+window+Window at 0x558faca9d0d0)> is not in registered window list
+You're using a VGA Monitor
+[23:19:24:527] [12257:12261] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpdr
+[23:19:24:527] [12257:12261] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpsnd
+[23:19:24:527] [12257:12261] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[23:19:24:527] [12257:12261] [INFO][com.freerdp.client.common.cmdline] - loading channel drdynvc
+[23:19:27:864] [12257:12292] [INFO][com.freerdp.channels.rdpdr.client] - Loading device service drive (static)
+[23:19:27:864] [12257:12261] [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel audin
+[23:19:29:286] [12257:12292] [INFO][com.freerdp.channels.rdpdr.client] - registered device #1: media (type=8 id=1)
+[23:19:33:669] [12257:12261] [INFO][com.freerdp.client.x11] - Closed from X11
+You're using a VGA Monitor
+[23:20:02:304] [12740:12741] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpdr
+[23:20:02:304] [12740:12741] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpsnd
+[23:20:02:304] [12740:12741] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[23:20:02:304] [12740:12741] [INFO][com.freerdp.client.common.cmdline] - loading channel drdynvc
+[23:20:05:630] [12740:12770] [INFO][com.freerdp.channels.rdpdr.client] - Loading device service drive (static)
+[23:20:05:630] [12740:12741] [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel audin
+[23:20:07:773] [12740:12770] [INFO][com.freerdp.channels.rdpdr.client] - registered device #1: media (type=8 id=1)
+[23:20:46:950] [12740:12741] [INFO][com.freerdp.client.x11] - Closed from X11
+You're using a VGA Monitor
+[23:33:52:156] [22240:22241] [ERROR][com.freerdp.core] - failed to connect to mmdesk1
+[23:33:52:156] [22240:22241] [ERROR][com.freerdp.core.nego] - Protocol Security Negotiation Failure
+[23:33:52:156] [22240:22241] [ERROR][com.freerdp.core] - freerdp_set_last_error ERRCONNECT_SECURITY_NEGO_CONNECT_FAILED [0x2000C]
+[23:33:52:156] [22240:22241] [ERROR][com.freerdp.core.connection] - Error: protocol security negotiation or connection failure
+[23:33:52:156] [22240:22241] [ERROR][com.freerdp.client.x11] - Freerdp connect error exit status 1
+[23:33:37:140] [22240:22241] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpdr
+[23:33:37:140] [22240:22241] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpsnd
+[23:33:37:140] [22240:22241] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[23:33:37:140] [22240:22241] [INFO][com.freerdp.client.common.cmdline] - loading channel drdynvc
+You're using a VGA Monitor
+[23:40:34:524] [27397:27401] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpdr
+[23:40:34:524] [27397:27401] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpsnd
+[23:40:34:524] [27397:27401] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[23:40:34:524] [27397:27401] [INFO][com.freerdp.client.common.cmdline] - loading channel drdynvc
+[23:40:35:297] [27397:27401] [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel audin
+[23:40:35:297] [27397:27410] [INFO][com.freerdp.channels.rdpdr.client] - Loading device service drive (static)
+[23:40:36:595] [27397:27410] [INFO][com.freerdp.channels.rdpdr.client] - registered device #1: media (type=8 id=1)
+[23:40:46:349] [27397:27401] [INFO][com.freerdp.client.x11] - Closed from X11
+You're using a VGA Monitor
+[08:51:42:149] [12847:12848] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpdr
+[08:51:42:150] [12847:12848] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpsnd
+[08:51:42:150] [12847:12848] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[08:51:42:150] [12847:12848] [INFO][com.freerdp.client.common.cmdline] - loading channel drdynvc
+[08:51:42:208] [12847:12849] [INFO][com.freerdp.channels.rdpdr.client] - Loading device service drive (static)
+[08:51:42:212] [12847:12848] [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel audin
+[08:51:49:669] [12847:12849] [INFO][com.freerdp.channels.rdpdr.client] - registered device #1: media (type=8 id=1)
+[08:54:24:934] [12847:12848] [INFO][com.freerdp.client.x11] - Closed from X11
+You're using a VGA Monitor
+Invalid shared memory segment size
+[09:01:19:193] [15266:15273] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpdr
+[09:01:19:208] [15266:15273] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpsnd
+[09:01:19:208] [15266:15273] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[09:01:19:208] [15266:15273] [INFO][com.freerdp.client.common.cmdline] - loading channel drdynvc
+[09:01:20:576] [15266:15273] [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel audin
+[09:01:20:587] [15266:15278] [INFO][com.freerdp.channels.rdpdr.client] - Loading device service drive (static)
+[09:01:24:859] [15266:15278] [INFO][com.freerdp.channels.rdpdr.client] - registered device #1: media (type=8 id=1)
+[09:01:45:752] [15266:15273] [INFO][com.freerdp.client.x11] - Closed from X11
+You're using a VGA Monitor
+[10:25:16:857] [21369:21370] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpdr
+[10:25:16:857] [21369:21370] [INFO][com.freerdp.client.common.cmdline] - loading channel rdpsnd
+[10:25:16:857] [21369:21370] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[10:25:16:857] [21369:21370] [INFO][com.freerdp.client.common.cmdline] - loading channel drdynvc
+[10:25:18:101] [21369:21404] [INFO][com.freerdp.channels.rdpdr.client] - Loading device service drive (static)
+[10:25:18:101] [21369:21370] [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel audin
+[10:25:19:551] [21369:21404] [INFO][com.freerdp.channels.rdpdr.client] - registered device #1: media (type=8 id=1)
+[10:25:24:687] [21369:21370] [INFO][com.freerdp.client.x11] - Closed from X11
+[12:45:14:080] [23122:23123] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[12:45:20:813] [23122:23123] [INFO][com.freerdp.client.x11] - Closed from X11
+[13:45:48:072] [32671:32672] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[13:56:46:905] [32671:32672] [INFO][com.freerdp.client.x11] - Closed from X11
+[16:44:28:446] [25001:25002] [INFO][com.freerdp.client.common.cmdline] - loading channel cliprdr
+[16:44:43:960] [25001:25002] [INFO][com.freerdp.client.x11] - Closed from X11
+
+Unhandled Exception:
+System.TypeInitializationException: The type initializer for 'remote.MainClass' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at remote.SettingsService.GetSettings () <0x411db250 + 0x00156> in <filename unknown>:0 
+  at remote.MachineService..ctor () <0x411db0b0 + 0x0011b> in <filename unknown>:0 
+  at remote.MainClass..cctor () <0x411dae00 + 0x00023> in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+[ERROR] FATAL UNHANDLED EXCEPTION: System.TypeInitializationException: The type initializer for 'remote.MainClass' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at remote.SettingsService.GetSettings () <0x411db250 + 0x00156> in <filename unknown>:0 
+  at remote.MachineService..ctor () <0x411db0b0 + 0x0011b> in <filename unknown>:0 
+  at remote.MainClass..cctor () <0x411dae00 + 0x00023> in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+2/28/2016 5:03:07 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:03:07 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:03:07 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+2/28/2016 5:03:10 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:03:10 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:03:10 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+2/28/2016 5:03:13 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/28/2016 5:03:28 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/28/2016 5:03:41 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/28/2016 5:08:52 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:08:52 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:08:52 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+2/28/2016 5:09:03 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /microphone:sys:pulse /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/28/2016 5:16:54 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:16:54 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:16:54 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+2/28/2016 5:16:58 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/28/2016 5:17:53 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/28/2016 5:19:19 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:19:19 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/28/2016 5:19:19 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+2/28/2016 5:19:23 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/28/2016 5:55:34 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /w:1595 /h:847 /u:eratliff /p:Orange05? /v:10.10.10.90
+2/28/2016 6:06:41 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /w:1595 /h:847 /u:abullock /p:Password1! /v:10.10.10.90
+2/28/2016 6:06:53 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /w:1595 /h:847 /u:abullock /p:Password1! /v:10.10.10.153
+2/28/2016 6:48:52 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /w:1595 /h:847 /u:abullock /p:Password1! /v:10.10.10.153
+2/28/2016 6:55:15 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /w:1595 /h:847 /u:bkeefer /p:Image31; /v:10.10.10.153
+2/28/2016 8:49:52 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/29/2016 8:15:57 AM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/29/2016 8:15:57 AM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/29/2016 8:15:57 AM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+2/29/2016 8:16:01 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/29/2016 8:16:33 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/29/2016 9:19:31 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/29/2016 10:00:38 AM - terminator -e 'ssh steven@skydb1.skyfirm.local'
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+<Window object at 0x7f193a6e8460 (terminatorlib+window+Window at 0x5619da24c050)> is not in registered window list
+2/29/2016 10:00:47 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:steven /p:Boogersnot! /v:10.10.10.4
+2/29/2016 10:33:32 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:steven /p:Boogersnot! /v:10.10.10.2
+2/29/2016 10:42:23 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:scombs /p:B18b1skyt3 /v:tclowerweb.titleclose.com
+2/29/2016 10:42:37 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:scombs@ads1 /p:B18b1skyt3 /v:ec2-52-24-46-180.us-west-2.compute.amazonaws.com
+2/29/2016 10:47:05 AM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:scombs /p:B18b1skyt3 /v:tclowerweb.titleclose.com
+
+TigerVNC Viewer 64-bit v1.6.0
+Built on: 2015-12-25 15:36
+Copyright (C) 1999-2015 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+
+Mon Feb 29 11:13:50 2016
+ CConn:       connected to host mmosx port 5900
+ CConnection: Server supports RFB protocol version 3.889
+ CConnection: Using RFB protocol version 3.8
+
+Mon Feb 29 11:13:51 2016
+ CConnection: Choosing security type VncAuth(2)
+
+Mon Feb 29 11:13:53 2016
+ X11PixelBuffer: Using default colormap and visual, TrueColor, depth 24.
+ CConn:       Using pixel format depth 24 (32bpp) little-endian rgb888
+ CConn:       Using Tight encoding
+2/29/2016 11:16:10 AM - terminator -e 'ssh meanbunny@mmosx'
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+PluginRegistry::load_plugins: Importing plugin __init__.py failed: 'module' object has no attribute 'AVAILABLE'
+2/29/2016 12:53:07 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:scombs@ads1 /p:B18b1skyt3 /v:ec2-52-24-46-180.us-west-2.compute.amazonaws.com
+2/29/2016 1:28:28 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:scombs@ads1 /p:B18b1skyt3 /v:ec2-52-24-46-180.us-west-2.compute.amazonaws.com
+2/29/2016 1:52:25 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:alsa /microphone:sys:alsa /w:1595 /h:847 /u:scombs@ads1 /p:B18b1skyt3 /v:ec2-52-24-46-180.us-west-2.compute.amazonaws.com
+2/29/2016 2:30:12 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/29/2016 2:30:12 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+2/29/2016 2:30:12 PM - CurrentPlatform : Unix
+ExecutingPath : /home/meanbunny/.projects/mono_projects/remote/remote/bin/Debug/
+
+/usr/share/themes/Numix/gtk-2.0/gtkrc:172: error: unexpected keyword 'bg', expected string constant
+2/29/2016 2:31:35 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /microphone:sys:pulse,format:1,quality:high /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/29/2016 3:15:39 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /microphone:sys:pulse,format:1,quality:high /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
+2/29/2016 3:18:20 PM - xfreerdp +clipboard +aero +menu-anims +window-drag /gdi:sw +fonts /sound:sys:pulse /microphone:sys:pulse,format:1,quality:high /w:1595 /h:847 /u:meanbunny /p:b18b1skyt3 /v:mmdesk2
